@@ -1,0 +1,119 @@
+/* cria a div pop-up*/
+#popuppla{
+position: absolute; /*Define a posição absoluta da pop-up*/
+top: 0%; /*Distancia da margem superior da página */
+left: 0%; /*Distancia da margem esquerda da página */
+width: 320px; /*Largura da pop-up*/
+height: 240px; /*Altura da pop-up*/
+padding: 0px 0px 0px 0px; /*Margem interna da pop-up*/
+border-width: 1px; /*Largura da borda da pop-up*/
+border-style: solid; /*Estilo da borda da pop-up*/
+background: #9999c2; /*Cor de fundo da pop-up*/
+color: #000066; /*Cor do texto da pop-up*/
+display: none; /* Estilo da pop-up*/
+/*fim pop-up*/
+
+
+
+}
+#popupcli{
+position: absolute; /*Define a posição absoluta da pop-up*/
+top: 0%; /*Distancia da margem superior da página */
+left: 0%; /*Distancia da margem esquerda da página */
+width: 320px; /*Largura da pop-up*/
+height: 240px; /*Altura da pop-up*/
+padding: 0px 0px 0px 0px; /*Margem interna da pop-up*/
+border-width: 1px; /*Largura da borda da pop-up*/
+border-style: solid; /*Estilo da borda da pop-up*/
+background: #9999c2; /*Cor de fundo da pop-up*/
+color: #000066; /*Cor do texto da pop-up*/
+display: none; /* Estilo da pop-up*/
+/*fim pop-up*/
+
+
+
+}
+#popup{
+position: absolute; /*Define a posição absoluta da pop-up*/
+top: 0%; /*Distancia da margem superior da página */
+left: 0%; /*Distancia da margem esquerda da página */
+width: 320px; /*Largura da pop-up*/
+height: 240px; /*Altura da pop-up*/
+padding: 0px 0px 0px 0px; /*Margem interna da pop-up*/
+border-width: 1px; /*Largura da borda da pop-up*/
+border-style: solid; /*Estilo da borda da pop-up*/
+background: #9999c2; /*Cor de fundo da pop-up*/
+color: #000066; /*Cor do texto da pop-up*/
+display: none; /* Estilo da pop-up*/
+/*fim pop-up*/
+
+
+
+}
+#popven{
+position: absolute; /*Define a posição absoluta da pop-up*/
+top: 0%; /*Distancia da margem superior da página */
+left: 0%; /*Distancia da margem esquerda da página */
+width: 300px; /*Largura da pop-up*/
+height: 240px; /*Altura da pop-up*/
+padding: 0px 0px 0px 0px; /*Margem interna da pop-up*/
+border-width: 1px; /*Largura da borda da pop-up*/
+border-style: solid; /*Estilo da borda da pop-up*/
+background: #94ffd4; /*Cor de fundo da pop-up*/
+color: #000066; /*Cor do texto da pop-up*/
+display: none; /* Estilo da pop-up*/
+/*fim pop-up*/
+}
+div#tabprod { 
+  Height:138px;
+  Width:313px;
+  margin:0px;
+  overflow-y:scroll; overflow-x:hidden;
+} 
+
+#popsen{
+position: absolute; /*Define a posição absoluta da pop-up*/
+width: 220px; /*Largura da pop-up*/
+height: 140px; /*Altura da pop-up*/
+padding: 0px 0px 0px 0px; /*Margem interna da pop-up*/
+border-width: 1px; /*Largura da borda da pop-up*/
+border-style: solid; /*Estilo da borda da pop-up*/
+background: #9999c2; /*Cor de fundo da pop-up*/
+color: #000066; /*Cor do texto da pop-up*/
+display: none; /* Estilo da pop-up*/
+}
+#popsent {
+                font-family:\"Trebuchet MS\", Arial, Helvetica, sans-serif; 
+                width: 100% ;
+                border-collapse:collapse;
+                }
+                #popsent td, #popsent th {
+                font-size:0.7em;
+                 border:1px solid #98bf21;
+                padding:3px 3px 2px 3px;
+                }
+                #popsent th, #popsent td.h {
+                font-size:0.9em;
+                text-align:center;
+                padding-top:4px;
+                padding-bottom:4px;
+                background-color:#009933;
+                color:#ffffff;
+                }
+                #popsent tr.alt td{
+                color:#000000;
+                background-color:#EAF2D3;
+                }
+                #popsent td.e {
+                text-align:left;
+                background-color:#99ff99;
+                }
+                #popsent td.d {
+                width:30%;
+                text-align:right;
+                background-color:#EAF2D3;
+                }
+                #popsent td.c {
+                text-align:center;
+                }
+/*fim pop-up*/
